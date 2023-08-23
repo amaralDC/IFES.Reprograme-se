@@ -1,0 +1,74 @@
+{
+  "pessoas": [
+    {
+      "nome": "Rogério Lacerda Pessoa",
+      "endereco": "Rua Acre 1507",
+      "nacionalidade": "Brasileira",
+      "idade": 35,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Luciana Meireles Guimarães",
+      "endereco": "Rua das Flores 1719",
+      "nacionalidade": "Brasileira",
+      "idade": 25,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Herbert Floyd",
+      "endereco": "302 Junkins Avenue",
+      "nacionalidade": "Americana",
+      "idade": 45,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Amanda Richards",
+      "endereco": "2787 Hidden Meadow Drive",
+      "nacionalidade": "Americana",
+      "idade": 30,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Simón Fortun",
+      "endereco": "PONIENTE 7 447, CENTRO, 94300",
+      "nacionalidade": "Mexicana",
+      "idade": 27,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Lupita Ojeda",
+      "endereco": "MATAMOROS 450, CIUDAD ACUÑA CENTRO",
+      "nacionalidade": "Mexicana",
+      "idade": 22,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Pierres Perrin",
+      "endereco": "49 Avenue des Tuileries",
+      "nacionalidade": "Francesa",
+      "idade": 50,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Igraine Martel",
+      "endereco": "66 Rue de Geneve",
+      "nacionalidade": "Francesa",
+      "idade": 40,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Lucio Beneventi",
+      "endereco": "Via Zannoni, 120",
+      "nacionalidade": "Italiana",
+      "idade": 28,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Ernesta Venezia",
+      "endereco": "Via Carlo Cattaneo, 40",
+      "nacionalidade": "Italiana",
+      "idade": 23,
+      "sexo": "Feminino"
+    }
+  ]
+}

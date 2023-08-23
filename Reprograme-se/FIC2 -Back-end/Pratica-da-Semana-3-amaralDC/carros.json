@@ -1,0 +1,24 @@
+{
+  "carros": [
+    {
+      "placa": "ABC1234",
+      "nome": "Firebird",
+      "montadora": "Pontiac"
+    },
+    {
+      "placa": "DEF5678",
+      "nome": "Beetle",
+      "montadora": "Volkswagen"
+    },
+    {
+      "placa": "GHI9012",
+      "nome": "LaFerrari",
+      "montadora": "Ferrari"
+    },
+    {
+      "placa": "1",
+      "nome": "1",
+      "montadora": "1"
+    }
+  ]
+}

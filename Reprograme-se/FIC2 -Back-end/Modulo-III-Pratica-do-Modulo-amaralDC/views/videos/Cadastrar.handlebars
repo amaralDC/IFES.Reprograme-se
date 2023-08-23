@@ -1,0 +1,49 @@
+<h1 class="text-center my-3">Cadastro de Filmes</h1>
+<form action="/Cadastrar" method="post">
+	<div class="row w-50 d-block m-auto g-3">
+		<div class="col-12">
+			<label class="form-label" for="categoria">Categoria:</label>
+			<input
+				class="form-control"
+				type="categoria"
+				name="categoria"
+				id="categoria"
+				placeholder="Digite a categoria do filme"
+				/>
+		</div>
+		<div class="col-12">
+			<label class="form-label" for="titulo">Titulo:</label>
+			<input
+				class="form-control"
+				type="titulo"
+				name="titulo"
+				id="titulo"
+				placeholder="Digite o título do filme."
+				/>
+		</div>
+		<div class="col-12">
+			<label class="form-label" for="genero">Genero:</label>
+			<input
+				class="form-control"
+				type="genero"
+				name="genero"
+				id="genero"
+				placeholder="Digite o genero do filme."
+				/>
+		</div>
+		
+		<div class="col-12">
+			<label class="form-label" for="Link_sinopse">Link:</label>
+			<input
+				class="form-control"
+				name="Link_sinopse"
+				id="Link_sinopse"
+				placeholder="Link do filme"
+				/>
+		</div>
+		<div>
+			<input class="btn btn-primary my-3" type="submit" value="Cadastrar filme"
+				/>
+		</div>
+	</div>
+</form>
